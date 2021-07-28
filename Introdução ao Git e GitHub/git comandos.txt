@@ -4,19 +4,19 @@ Primeiros comandos GIT
 - git add nome do arquivo
 - git add *: add tds arquivos pra stage
 - git commit -m "escrever mensagem"
--commit: objeto chave
--git status:
+- commit: objeto chave
+- git status:
 
--mv: mover arquivo
--echo > : CRIAR ARQUIVO
--ls: listar pastas
--cd + nome da pasta: entrar na pasta
--mkdir + nome: criação de pasta
--git init: pasta passa a ser do git, fica oculta
--ls -a: mostra pasta gerencial do git
--cd .git/ :mostra pasta dentro
--git config --global user.email "suzanadeazevedo@hotmail.com : configuração usuario
-- git config --global user.name "SLA"
+- mv: mover arquivo
+- echo > : CRIAR ARQUIVO
+- ls: listar pastas
+- cd + nome da pasta: entrar na pasta
+- mkdir + nome: criação de pasta
+- git init: pasta passa a ser do git, fica oculta
+- ls -a: mostra pasta gerencial do git
+- cd .git/ :mostra pasta dentro
+- git config --global user.email "usuario@email.com : configuração usuario
+- git config --global user.name "nome"
 - git config --list : lista geralexit
 - git clone  url ---> baixar do git hub
 - crtl L: limpa terminal
